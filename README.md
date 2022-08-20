@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz Mogielski</h1>
 <h3 align="center">I'm interested in frontend, backend and databases</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mogiel" alt="mogiel" /></a> </p>
-
 - 🔭 I’m currently working on [calculators for civil engineers](https://github.com/mogiel/civil_engineering_be)
 
 - 🌱 I’m currently learning **NestJS, FastApi**
