@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mateusz Mogielski</h1>
+<h3 align="center">I'm interested in frontend, backend and databases</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mogiel" alt="mogiel" /></a> </p>
 
