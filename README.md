@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mogielski@protonmail.com**
 
-- 🖨 CV to [download](https://github.com/mogiel/CV/blob/eb8714561e6d3a24ac5b40d17eeea850e86fa187/MATEUSZ%20MOGIELSKI.pdf)
+- 🖨 CV to [view](https://github.com/mogiel/CV/blob/eb8714561e6d3a24ac5b40d17eeea850e86fa187/MATEUSZ%20MOGIELSKI.pdf) or [download](https://github.com/mogiel/CV/raw/eb8714561e6d3a24ac5b40d17eeea850e86fa187/MATEUSZ%20MOGIELSKI.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
