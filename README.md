@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **mogielski@protonmail.com**
 
+- 🖨 CV to [download](https://github.com/mogiel/CV/blob/eb8714561e6d3a24ac5b40d17eeea850e86fa187/MATEUSZ%20MOGIELSKI.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mateusz-mogielski-620093178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-mogielski-620093178" height="30" width="40" /></a>
