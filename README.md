@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mogiel?tab=repositories](https://github.com/mogiel?tab=repositories)
 
-- 📫 How to reach me **mogielski@protonmail.com**
+- 📫 How to reach me [mogielski@protonmail.com](mailto:mogielski@protonmail.com)
 
 - 🖨 CV to [view](https://github.com/mogiel/CV/blob/eb8714561e6d3a24ac5b40d17eeea850e86fa187/MATEUSZ%20MOGIELSKI.pdf) or [download](https://github.com/mogiel/CV/raw/eb8714561e6d3a24ac5b40d17eeea850e86fa187/MATEUSZ%20MOGIELSKI.pdf)
 
